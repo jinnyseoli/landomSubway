@@ -41,19 +41,17 @@
 </div>
 
 <script>
-    // 1. 데이터 가져오기 (실제로는 fetch로 json을 가져오거나 여기에 직접 넣습니다)
-    // 예시를 위해 일부 데이터만 넣었으니, 실제로는 이전 단계의 JSON 데이터를 여기에 복사해 넣으세요!
     let subwayData = [];
 
     // 데이터를 서버에서 불러오는 함수
     async function loadData() {
         try {
-            const response = await fetch('subway_final.json');
+            const response = await fetch('subway.json');
             subwayData = await response.json();
             renderLines();
         } catch (e) {
             console.error("데이터 로드 실패:", e);
-            alert("subway_final.json 파일을 찾을 수 없습니다.");
+            alert("subway.json 파일을 찾을 수 없습니다.");
         }
     }
 
@@ -64,7 +62,7 @@
         });
     }
 
-    // 2. 호선 목록 체크박스 생성
+    // 호선 목록 체크박스 생성
     function renderLines() {
         const lines = [...new Set(subwayData.map(d => d.line))].sort();
         const container = document.getElementById('line-selection');
@@ -75,7 +73,7 @@
         `).join('');
     }
 
-    // 3. 랜덤 추첨 로직 (연출 포함)
+    // 랜덤 추첨 로직
     async function pickRandom() {
         const excludeChecks = document.querySelectorAll('.exclude-check:checked');
         const excludedLines = Array.from(excludeChecks).map(c => c.value);
