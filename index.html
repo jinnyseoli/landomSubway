@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>🚇 수도권 지하철 랜덤 추천</title>
+    <style>
+        body { font-family: 'Pretendard', sans-serif; display: flex; justify-content: center; padding: 20px; background-color: #f0f2f5; }
+        .container { background: white; padding: 30px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); width: 100%; max-width: 500px; text-align: center; }
+        h1 { color: #333; margin-bottom: 20px; }
+        .line-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 20px; text-align: left; background: #fafafa; padding: 15px; border-radius: 10px; }
+        .line-item { font-size: 14px; display: flex; align-items: center; cursor: pointer; }
+        .line-item input { margin-right: 5px; }
+        button { width: 100%; padding: 15px; border: none; border-radius: 8px; background-color: #007bff; color: white; font-size: 16px; font-weight: bold; cursor: pointer; transition: 0.3s; }
+        button:hover { background-color: #0056b3; }
+        #result-area { margin-top: 30px; min-height: 120px; padding: 20px; border: 2px dashed #ddd; border-radius: 10px; }
+        .highlight-line { font-size: 18px; color: #666; font-weight: bold; }
+        .highlight-station { font-size: 28px; color: #e74c3c; font-weight: 800; margin-top: 10px; }
+        .loading { color: #999; font-style: italic; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>🚇 지하철 랜덤 추천</h1>
+    <p>제외할 호선을 선택하세요:</p>
+
+    <div style="margin-bottom: 10px; text-align: right;">
+        <button onclick="toggleAll(true)" style="width: auto; padding: 5px 10px; font-size: 12px; background-color: #6c757d;">전체 선택</button>
+        <button onclick="toggleAll(false)" style="width: auto; padding: 5px 10px; font-size: 12px; background-color: #6c757d;">전체 해제</button>
+    </div>
+    
+    <div id="line-selection" class="line-grid">
+        </div>
+    <button onclick="pickRandom()">역 추첨 시작! 🎲</button>
+
+    <div id="result-area">
+        <div id="status-text">조건을 설정하고 버튼을 눌러주세요.</div>
+        <div id="line-result" class="highlight-line"></div>
+        <div id="station-result" class="highlight-station"></div>
+    </div>
+</div>
+
+<script>
+    // 1. 데이터 가져오기 (실제로는 fetch로 json을 가져오거나 여기에 직접 넣습니다)
+    // 예시를 위해 일부 데이터만 넣었으니, 실제로는 이전 단계의 JSON 데이터를 여기에 복사해 넣으세요!
+    let subwayData = [];
+
+    // 데이터를 서버에서 불러오는 함수
+    async function loadData() {
+        try {
+            const response = await fetch('subway_final.json');
+            subwayData = await response.json();
+            renderLines();
+        } catch (e) {
+            console.error("데이터 로드 실패:", e);
+            alert("subway_final.json 파일을 찾을 수 없습니다.");
+        }
+    }
+
+    function toggleAll(checked) {
+        const checkboxes = document.querySelectorAll('.exclude-check');
+        checkboxes.forEach(cb => {
+            cb.checked = checked;
+        });
+    }
+
+    // 2. 호선 목록 체크박스 생성
+    function renderLines() {
+        const lines = [...new Set(subwayData.map(d => d.line))].sort();
+        const container = document.getElementById('line-selection');
+        container.innerHTML = lines.map(line => `
+            <label class="line-item">
+                <input type="checkbox" class="exclude-check" value="${line}"> ${line}
+            </label>
+        `).join('');
+    }
+
+    // 3. 랜덤 추첨 로직 (연출 포함)
+    async function pickRandom() {
+        const excludeChecks = document.querySelectorAll('.exclude-check:checked');
+        const excludedLines = Array.from(excludeChecks).map(c => c.value);
+        
+        const availableData = subwayData.filter(d => !excludedLines.includes(d.line));
+        
+        if (availableData.length === 0) {
+            alert("모든 호선이 제외되었습니다!");
+            return;
+        }
+
+        // 초기화
+        const status = document.getElementById('status-text');
+        const lineRes = document.getElementById('line-result');
+        const stationRes = document.getElementById('station-result');
+        
+        status.innerText = "🎲 호선을 뽑는 중...";
+        lineRes.innerText = "";
+        stationRes.innerText = "";
+
+        // 호선 결정
+        await new Promise(r => setTimeout(r, 800));
+        const availableLines = [...new Set(availableData.map(d => d.line))];
+        const selectedLine = availableLines[Math.floor(Math.random() * availableLines.length)];
+        lineRes.innerText = `[${selectedLine}]`;
+        status.innerText = "🔍 역을 찾는 중...";
+
+        // 역 결정
+        await new Promise(r => setTimeout(r, 1200));
+        const stationsInLine = availableData.filter(d => d.line === selectedLine);
+        const selectedStation = stationsInLine[Math.floor(Math.random() * stationsInLine.length)];
+        
+        status.innerText = "🎯 도착지 확정!";
+        stationRes.innerText = `${selectedStation.station}역`;
+    }
+
+    loadData();
+</script>
+
+</body>
+</html>

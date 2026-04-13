@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "csvtojson": "^2.0.14",
+    "iconv-lite": "^0.7.2"
+  }
+}

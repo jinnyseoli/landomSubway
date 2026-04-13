@@ -1,0 +1,3210 @@
+[
+  {
+    "line": "공항",
+    "station": "서울역"
+  },
+  {
+    "line": "공항",
+    "station": "공덕"
+  },
+  {
+    "line": "공항",
+    "station": "홍대입구"
+  },
+  {
+    "line": "공항",
+    "station": "디지털미디어시티"
+  },
+  {
+    "line": "공항",
+    "station": "마곡나루"
+  },
+  {
+    "line": "공항",
+    "station": "김포공항"
+  },
+  {
+    "line": "공항",
+    "station": "계양"
+  },
+  {
+    "line": "공항",
+    "station": "검암"
+  },
+  {
+    "line": "공항",
+    "station": "청라국제도시"
+  },
+  {
+    "line": "공항",
+    "station": "영종"
+  },
+  {
+    "line": "공항",
+    "station": "운서"
+  },
+  {
+    "line": "공항",
+    "station": "공항화물청사"
+  },
+  {
+    "line": "공항",
+    "station": "인천공항1터미널"
+  },
+  {
+    "line": "공항",
+    "station": "인천공항2터미널"
+  },
+  {
+    "line": "신분당",
+    "station": "신사"
+  },
+  {
+    "line": "신분당",
+    "station": "논현"
+  },
+  {
+    "line": "신분당",
+    "station": "신논현"
+  },
+  {
+    "line": "신분당",
+    "station": "강남"
+  },
+  {
+    "line": "신분당",
+    "station": "양재(서초구청)"
+  },
+  {
+    "line": "신분당",
+    "station": "양재시민의숲(매헌)"
+  },
+  {
+    "line": "신분당",
+    "station": "청계산입구"
+  },
+  {
+    "line": "신분당",
+    "station": "판교(판교테크노밸리)"
+  },
+  {
+    "line": "신분당",
+    "station": "정자"
+  },
+  {
+    "line": "신분당",
+    "station": "미금(분당서울대병원)"
+  },
+  {
+    "line": "신분당",
+    "station": "동천"
+  },
+  {
+    "line": "신분당",
+    "station": "수지구청"
+  },
+  {
+    "line": "신분당",
+    "station": "성복"
+  },
+  {
+    "line": "신분당",
+    "station": "상현"
+  },
+  {
+    "line": "신분당",
+    "station": "광교중앙(아주대)"
+  },
+  {
+    "line": "신분당",
+    "station": "광교(경기대)"
+  },
+  {
+    "line": "에버라인",
+    "station": "기흥(백남준아트센터)"
+  },
+  {
+    "line": "에버라인",
+    "station": "강남대"
+  },
+  {
+    "line": "에버라인",
+    "station": "지석"
+  },
+  {
+    "line": "에버라인",
+    "station": "어정"
+  },
+  {
+    "line": "에버라인",
+    "station": "동백"
+  },
+  {
+    "line": "에버라인",
+    "station": "초당"
+  },
+  {
+    "line": "에버라인",
+    "station": "삼가"
+  },
+  {
+    "line": "에버라인",
+    "station": "시청.용인대"
+  },
+  {
+    "line": "에버라인",
+    "station": "명지대"
+  },
+  {
+    "line": "에버라인",
+    "station": "김량장"
+  },
+  {
+    "line": "에버라인",
+    "station": "운동장.송담대"
+  },
+  {
+    "line": "에버라인",
+    "station": "고진"
+  },
+  {
+    "line": "에버라인",
+    "station": "보평"
+  },
+  {
+    "line": "에버라인",
+    "station": "둔전"
+  },
+  {
+    "line": "에버라인",
+    "station": "전대.에버랜드"
+  },
+  {
+    "line": "김포골드라인",
+    "station": "양촌"
+  },
+  {
+    "line": "김포골드라인",
+    "station": "구래"
+  },
+  {
+    "line": "김포골드라인",
+    "station": "마산"
+  },
+  {
+    "line": "김포골드라인",
+    "station": "장기"
+  },
+  {
+    "line": "김포골드라인",
+    "station": "운양"
+  },
+  {
+    "line": "김포골드라인",
+    "station": "걸포북변"
+  },
+  {
+    "line": "김포골드라인",
+    "station": "사우(김포시청)"
+  },
+  {
+    "line": "김포골드라인",
+    "station": "풍무"
+  },
+  {
+    "line": "김포골드라인",
+    "station": "고촌"
+  },
+  {
+    "line": "김포골드라인",
+    "station": "김포공항"
+  },
+  {
+    "line": "8호선",
+    "station": "동구릉"
+  },
+  {
+    "line": "8호선",
+    "station": "구리"
+  },
+  {
+    "line": "8호선",
+    "station": "장자호수공원"
+  },
+  {
+    "line": "GTX-A",
+    "station": "수서"
+  },
+  {
+    "line": "GTX-A",
+    "station": "성남"
+  },
+  {
+    "line": "GTX-A",
+    "station": "구성"
+  },
+  {
+    "line": "GTX-A",
+    "station": "서울역"
+  },
+  {
+    "line": "GTX-A",
+    "station": "연신내"
+  },
+  {
+    "line": "GTX-A",
+    "station": "대곡"
+  },
+  {
+    "line": "GTX-A",
+    "station": "킨텍스"
+  },
+  {
+    "line": "GTX-A",
+    "station": "운정중앙"
+  },
+  {
+    "line": "자기부상",
+    "station": "인천공항1터미널"
+  },
+  {
+    "line": "자기부상",
+    "station": "장기주차장"
+  },
+  {
+    "line": "자기부상",
+    "station": "합동청사"
+  },
+  {
+    "line": "자기부상",
+    "station": "파라다이스시티"
+  },
+  {
+    "line": "자기부상",
+    "station": "워터파크"
+  },
+  {
+    "line": "자기부상",
+    "station": "용유"
+  },
+  {
+    "line": "7호선",
+    "station": "까치울"
+  },
+  {
+    "line": "7호선",
+    "station": "부천종합운동장"
+  },
+  {
+    "line": "7호선",
+    "station": "춘의"
+  },
+  {
+    "line": "7호선",
+    "station": "신중동"
+  },
+  {
+    "line": "7호선",
+    "station": "부천시청"
+  },
+  {
+    "line": "7호선",
+    "station": "상동"
+  },
+  {
+    "line": "7호선",
+    "station": "삼산체육관"
+  },
+  {
+    "line": "7호선",
+    "station": "굴포천"
+  },
+  {
+    "line": "7호선",
+    "station": "부평구청"
+  },
+  {
+    "line": "7호선",
+    "station": "산곡"
+  },
+  {
+    "line": "7호선",
+    "station": "석남(거북시장)"
+  },
+  {
+    "line": "인천1호선",
+    "station": "계양"
+  },
+  {
+    "line": "인천1호선",
+    "station": "귤현"
+  },
+  {
+    "line": "인천1호선",
+    "station": "박촌"
+  },
+  {
+    "line": "인천1호선",
+    "station": "임학"
+  },
+  {
+    "line": "인천1호선",
+    "station": "계산"
+  },
+  {
+    "line": "인천1호선",
+    "station": "경인교대입구"
+  },
+  {
+    "line": "인천1호선",
+    "station": "작전"
+  },
+  {
+    "line": "인천1호선",
+    "station": "갈산"
+  },
+  {
+    "line": "인천1호선",
+    "station": "부평구청"
+  },
+  {
+    "line": "인천1호선",
+    "station": "부평시장"
+  },
+  {
+    "line": "인천1호선",
+    "station": "부평"
+  },
+  {
+    "line": "인천1호선",
+    "station": "동수"
+  },
+  {
+    "line": "인천1호선",
+    "station": "부평삼거리"
+  },
+  {
+    "line": "인천1호선",
+    "station": "간석오거리"
+  },
+  {
+    "line": "인천1호선",
+    "station": "인천시청"
+  },
+  {
+    "line": "인천1호선",
+    "station": "예술회관"
+  },
+  {
+    "line": "인천1호선",
+    "station": "인천터미널"
+  },
+  {
+    "line": "인천1호선",
+    "station": "문학경기장"
+  },
+  {
+    "line": "인천1호선",
+    "station": "선학"
+  },
+  {
+    "line": "인천1호선",
+    "station": "신연수"
+  },
+  {
+    "line": "인천1호선",
+    "station": "원인재"
+  },
+  {
+    "line": "인천1호선",
+    "station": "동춘"
+  },
+  {
+    "line": "인천1호선",
+    "station": "동막"
+  },
+  {
+    "line": "인천1호선",
+    "station": "캠퍼스타운"
+  },
+  {
+    "line": "인천1호선",
+    "station": "테크노파크"
+  },
+  {
+    "line": "인천1호선",
+    "station": "지식정보단지"
+  },
+  {
+    "line": "인천1호선",
+    "station": "인천대입구"
+  },
+  {
+    "line": "인천1호선",
+    "station": "센트럴파크"
+  },
+  {
+    "line": "인천1호선",
+    "station": "국제업무지구"
+  },
+  {
+    "line": "인천1호선",
+    "station": "송도달빛축제공원"
+  },
+  {
+    "line": "인천2호선",
+    "station": "검단오류"
+  },
+  {
+    "line": "인천2호선",
+    "station": "왕길"
+  },
+  {
+    "line": "인천2호선",
+    "station": "검단사거리"
+  },
+  {
+    "line": "인천2호선",
+    "station": "마전"
+  },
+  {
+    "line": "인천2호선",
+    "station": "완정"
+  },
+  {
+    "line": "인천2호선",
+    "station": "독정"
+  },
+  {
+    "line": "인천2호선",
+    "station": "검암"
+  },
+  {
+    "line": "인천2호선",
+    "station": "검바위"
+  },
+  {
+    "line": "인천2호선",
+    "station": "아시아드경기장"
+  },
+  {
+    "line": "인천2호선",
+    "station": "서구청"
+  },
+  {
+    "line": "인천2호선",
+    "station": "가정"
+  },
+  {
+    "line": "인천2호선",
+    "station": "가정중앙시장"
+  },
+  {
+    "line": "인천2호선",
+    "station": "석남"
+  },
+  {
+    "line": "인천2호선",
+    "station": "서부여성회관"
+  },
+  {
+    "line": "인천2호선",
+    "station": "인천가좌"
+  },
+  {
+    "line": "인천2호선",
+    "station": "가재울"
+  },
+  {
+    "line": "인천2호선",
+    "station": "주안국가산단"
+  },
+  {
+    "line": "인천2호선",
+    "station": "주안"
+  },
+  {
+    "line": "인천2호선",
+    "station": "시민공원"
+  },
+  {
+    "line": "인천2호선",
+    "station": "석바위시장"
+  },
+  {
+    "line": "인천2호선",
+    "station": "인천시청"
+  },
+  {
+    "line": "인천2호선",
+    "station": "석천사거리"
+  },
+  {
+    "line": "인천2호선",
+    "station": "모래내시장"
+  },
+  {
+    "line": "인천2호선",
+    "station": "만수"
+  },
+  {
+    "line": "인천2호선",
+    "station": "남동구청"
+  },
+  {
+    "line": "인천2호선",
+    "station": "인천대공원"
+  },
+  {
+    "line": "인천2호선",
+    "station": "운연"
+  },
+  {
+    "line": "1호선",
+    "station": "연천"
+  },
+  {
+    "line": "1호선",
+    "station": "전곡"
+  },
+  {
+    "line": "1호선",
+    "station": "청산"
+  },
+  {
+    "line": "1호선",
+    "station": "소요산"
+  },
+  {
+    "line": "1호선",
+    "station": "동두천"
+  },
+  {
+    "line": "1호선",
+    "station": "보산"
+  },
+  {
+    "line": "1호선",
+    "station": "동두천중앙"
+  },
+  {
+    "line": "1호선",
+    "station": "지행"
+  },
+  {
+    "line": "1호선",
+    "station": "덕정"
+  },
+  {
+    "line": "1호선",
+    "station": "덕계"
+  },
+  {
+    "line": "1호선",
+    "station": "양주"
+  },
+  {
+    "line": "1호선",
+    "station": "녹양"
+  },
+  {
+    "line": "1호선",
+    "station": "가능"
+  },
+  {
+    "line": "1호선",
+    "station": "의정부"
+  },
+  {
+    "line": "1호선",
+    "station": "회룡"
+  },
+  {
+    "line": "1호선",
+    "station": "망월사"
+  },
+  {
+    "line": "1호선",
+    "station": "도봉산"
+  },
+  {
+    "line": "1호선",
+    "station": "도봉"
+  },
+  {
+    "line": "1호선",
+    "station": "방학"
+  },
+  {
+    "line": "1호선",
+    "station": "창동"
+  },
+  {
+    "line": "1호선",
+    "station": "녹천"
+  },
+  {
+    "line": "1호선",
+    "station": "월계"
+  },
+  {
+    "line": "1호선",
+    "station": "광운대"
+  },
+  {
+    "line": "1호선",
+    "station": "석계"
+  },
+  {
+    "line": "1호선",
+    "station": "신이문"
+  },
+  {
+    "line": "1호선",
+    "station": "외대앞"
+  },
+  {
+    "line": "1호선",
+    "station": "회기"
+  },
+  {
+    "line": "1호선",
+    "station": "남영"
+  },
+  {
+    "line": "1호선",
+    "station": "용산"
+  },
+  {
+    "line": "1호선",
+    "station": "노량진"
+  },
+  {
+    "line": "1호선",
+    "station": "대방"
+  },
+  {
+    "line": "1호선",
+    "station": "신길"
+  },
+  {
+    "line": "1호선",
+    "station": "영등포"
+  },
+  {
+    "line": "1호선",
+    "station": "신도림"
+  },
+  {
+    "line": "1호선",
+    "station": "구로"
+  },
+  {
+    "line": "1호선",
+    "station": "가산디지털단지"
+  },
+  {
+    "line": "1호선",
+    "station": "구일"
+  },
+  {
+    "line": "1호선",
+    "station": "개봉"
+  },
+  {
+    "line": "1호선",
+    "station": "독산"
+  },
+  {
+    "line": "1호선",
+    "station": "금천구청"
+  },
+  {
+    "line": "1호선",
+    "station": "오류동"
+  },
+  {
+    "line": "1호선",
+    "station": "광명"
+  },
+  {
+    "line": "1호선",
+    "station": "석수"
+  },
+  {
+    "line": "1호선",
+    "station": "온수"
+  },
+  {
+    "line": "1호선",
+    "station": "관악"
+  },
+  {
+    "line": "1호선",
+    "station": "역곡"
+  },
+  {
+    "line": "1호선",
+    "station": "소사"
+  },
+  {
+    "line": "1호선",
+    "station": "안양"
+  },
+  {
+    "line": "1호선",
+    "station": "명학"
+  },
+  {
+    "line": "1호선",
+    "station": "부천"
+  },
+  {
+    "line": "1호선",
+    "station": "금정"
+  },
+  {
+    "line": "1호선",
+    "station": "중동"
+  },
+  {
+    "line": "1호선",
+    "station": "군포"
+  },
+  {
+    "line": "1호선",
+    "station": "송내"
+  },
+  {
+    "line": "1호선",
+    "station": "당정"
+  },
+  {
+    "line": "1호선",
+    "station": "부개"
+  },
+  {
+    "line": "1호선",
+    "station": "부평"
+  },
+  {
+    "line": "1호선",
+    "station": "의왕"
+  },
+  {
+    "line": "1호선",
+    "station": "백운"
+  },
+  {
+    "line": "1호선",
+    "station": "성균관대"
+  },
+  {
+    "line": "1호선",
+    "station": "동암"
+  },
+  {
+    "line": "1호선",
+    "station": "화서"
+  },
+  {
+    "line": "1호선",
+    "station": "간석"
+  },
+  {
+    "line": "1호선",
+    "station": "수원"
+  },
+  {
+    "line": "1호선",
+    "station": "세류"
+  },
+  {
+    "line": "1호선",
+    "station": "주안"
+  },
+  {
+    "line": "1호선",
+    "station": "도화"
+  },
+  {
+    "line": "1호선",
+    "station": "병점"
+  },
+  {
+    "line": "1호선",
+    "station": "서동탄"
+  },
+  {
+    "line": "1호선",
+    "station": "세마"
+  },
+  {
+    "line": "1호선",
+    "station": "제물포"
+  },
+  {
+    "line": "1호선",
+    "station": "도원"
+  },
+  {
+    "line": "1호선",
+    "station": "오산대"
+  },
+  {
+    "line": "1호선",
+    "station": "동인천"
+  },
+  {
+    "line": "1호선",
+    "station": "오산"
+  },
+  {
+    "line": "1호선",
+    "station": "인천"
+  },
+  {
+    "line": "1호선",
+    "station": "진위"
+  },
+  {
+    "line": "1호선",
+    "station": "송탄"
+  },
+  {
+    "line": "1호선",
+    "station": "서정리"
+  },
+  {
+    "line": "1호선",
+    "station": "평택지제"
+  },
+  {
+    "line": "1호선",
+    "station": "평택"
+  },
+  {
+    "line": "1호선",
+    "station": "성환"
+  },
+  {
+    "line": "1호선",
+    "station": "직산"
+  },
+  {
+    "line": "1호선",
+    "station": "두정"
+  },
+  {
+    "line": "1호선",
+    "station": "천안"
+  },
+  {
+    "line": "1호선",
+    "station": "봉명"
+  },
+  {
+    "line": "1호선",
+    "station": "쌍용(나사렛대)"
+  },
+  {
+    "line": "1호선",
+    "station": "아산"
+  },
+  {
+    "line": "1호선",
+    "station": "탕정"
+  },
+  {
+    "line": "1호선",
+    "station": "배방"
+  },
+  {
+    "line": "1호선",
+    "station": "온양온천"
+  },
+  {
+    "line": "1호선",
+    "station": "신창(순천향대)"
+  },
+  {
+    "line": "3호선",
+    "station": "대화"
+  },
+  {
+    "line": "3호선",
+    "station": "주엽"
+  },
+  {
+    "line": "3호선",
+    "station": "정발산"
+  },
+  {
+    "line": "3호선",
+    "station": "마두"
+  },
+  {
+    "line": "3호선",
+    "station": "백석"
+  },
+  {
+    "line": "3호선",
+    "station": "대곡"
+  },
+  {
+    "line": "3호선",
+    "station": "화정"
+  },
+  {
+    "line": "3호선",
+    "station": "원당"
+  },
+  {
+    "line": "3호선",
+    "station": "원흥"
+  },
+  {
+    "line": "3호선",
+    "station": "삼송"
+  },
+  {
+    "line": "4호선",
+    "station": "선바위"
+  },
+  {
+    "line": "4호선",
+    "station": "경마공원"
+  },
+  {
+    "line": "4호선",
+    "station": "대공원"
+  },
+  {
+    "line": "4호선",
+    "station": "과천"
+  },
+  {
+    "line": "4호선",
+    "station": "정부과천청사"
+  },
+  {
+    "line": "4호선",
+    "station": "인덕원"
+  },
+  {
+    "line": "4호선",
+    "station": "평촌"
+  },
+  {
+    "line": "4호선",
+    "station": "범계"
+  },
+  {
+    "line": "4호선",
+    "station": "금정"
+  },
+  {
+    "line": "4호선",
+    "station": "산본"
+  },
+  {
+    "line": "4호선",
+    "station": "수리산"
+  },
+  {
+    "line": "4호선",
+    "station": "대야미"
+  },
+  {
+    "line": "4호선",
+    "station": "반월"
+  },
+  {
+    "line": "4호선",
+    "station": "상록수"
+  },
+  {
+    "line": "4호선",
+    "station": "한대앞"
+  },
+  {
+    "line": "4호선",
+    "station": "중앙"
+  },
+  {
+    "line": "4호선",
+    "station": "고잔"
+  },
+  {
+    "line": "4호선",
+    "station": "초지"
+  },
+  {
+    "line": "4호선",
+    "station": "안산"
+  },
+  {
+    "line": "4호선",
+    "station": "신길온천"
+  },
+  {
+    "line": "4호선",
+    "station": "정왕"
+  },
+  {
+    "line": "4호선",
+    "station": "오이도"
+  },
+  {
+    "line": "수인분당",
+    "station": "청량리"
+  },
+  {
+    "line": "수인분당",
+    "station": "왕십리"
+  },
+  {
+    "line": "수인분당",
+    "station": "서울숲"
+  },
+  {
+    "line": "수인분당",
+    "station": "압구정로데오"
+  },
+  {
+    "line": "수인분당",
+    "station": "강남구청"
+  },
+  {
+    "line": "수인분당",
+    "station": "선정릉"
+  },
+  {
+    "line": "수인분당",
+    "station": "선릉"
+  },
+  {
+    "line": "수인분당",
+    "station": "한티"
+  },
+  {
+    "line": "수인분당",
+    "station": "도곡"
+  },
+  {
+    "line": "수인분당",
+    "station": "구룡"
+  },
+  {
+    "line": "수인분당",
+    "station": "개포동"
+  },
+  {
+    "line": "수인분당",
+    "station": "대모산입구"
+  },
+  {
+    "line": "수인분당",
+    "station": "수서"
+  },
+  {
+    "line": "수인분당",
+    "station": "복정(동서울대학)"
+  },
+  {
+    "line": "수인분당",
+    "station": "가천대"
+  },
+  {
+    "line": "수인분당",
+    "station": "태평"
+  },
+  {
+    "line": "수인분당",
+    "station": "모란"
+  },
+  {
+    "line": "수인분당",
+    "station": "야탑"
+  },
+  {
+    "line": "수인분당",
+    "station": "이매(성남아트센터)"
+  },
+  {
+    "line": "수인분당",
+    "station": "서현"
+  },
+  {
+    "line": "수인분당",
+    "station": "수내(한국잡월드)"
+  },
+  {
+    "line": "수인분당",
+    "station": "정자"
+  },
+  {
+    "line": "수인분당",
+    "station": "미금(분당서울대병원)"
+  },
+  {
+    "line": "수인분당",
+    "station": "오리"
+  },
+  {
+    "line": "수인분당",
+    "station": "죽전(단국대)"
+  },
+  {
+    "line": "수인분당",
+    "station": "보정"
+  },
+  {
+    "line": "수인분당",
+    "station": "구성"
+  },
+  {
+    "line": "수인분당",
+    "station": "신갈"
+  },
+  {
+    "line": "수인분당",
+    "station": "기흥(백남준아트센터)"
+  },
+  {
+    "line": "수인분당",
+    "station": "상갈(루터대학교)"
+  },
+  {
+    "line": "수인분당",
+    "station": "청명"
+  },
+  {
+    "line": "수인분당",
+    "station": "영통(경희대)"
+  },
+  {
+    "line": "수인분당",
+    "station": "망포"
+  },
+  {
+    "line": "수인분당",
+    "station": "매탄권선"
+  },
+  {
+    "line": "수인분당",
+    "station": "수원시청(경기도문화의전당)"
+  },
+  {
+    "line": "수인분당",
+    "station": "매교"
+  },
+  {
+    "line": "수인분당",
+    "station": "수원"
+  },
+  {
+    "line": "수인분당",
+    "station": "고색"
+  },
+  {
+    "line": "수인분당",
+    "station": "오목천"
+  },
+  {
+    "line": "수인분당",
+    "station": "어천"
+  },
+  {
+    "line": "수인분당",
+    "station": "야목"
+  },
+  {
+    "line": "수인분당",
+    "station": "사리"
+  },
+  {
+    "line": "수인분당",
+    "station": "한대앞"
+  },
+  {
+    "line": "수인분당",
+    "station": "중앙"
+  },
+  {
+    "line": "수인분당",
+    "station": "고잔"
+  },
+  {
+    "line": "수인분당",
+    "station": "초지"
+  },
+  {
+    "line": "수인분당",
+    "station": "안산"
+  },
+  {
+    "line": "수인분당",
+    "station": "신길온천"
+  },
+  {
+    "line": "수인분당",
+    "station": "정왕"
+  },
+  {
+    "line": "수인분당",
+    "station": "오이도"
+  },
+  {
+    "line": "수인분당",
+    "station": "달월"
+  },
+  {
+    "line": "수인분당",
+    "station": "월곶"
+  },
+  {
+    "line": "수인분당",
+    "station": "소래포구"
+  },
+  {
+    "line": "수인분당",
+    "station": "인천논현"
+  },
+  {
+    "line": "수인분당",
+    "station": "호구포"
+  },
+  {
+    "line": "수인분당",
+    "station": "남동인더스파크"
+  },
+  {
+    "line": "수인분당",
+    "station": "원인재"
+  },
+  {
+    "line": "수인분당",
+    "station": "연수"
+  },
+  {
+    "line": "수인분당",
+    "station": "송도"
+  },
+  {
+    "line": "수인분당",
+    "station": "인하대"
+  },
+  {
+    "line": "수인분당",
+    "station": "숭의(인하대병원)"
+  },
+  {
+    "line": "수인분당",
+    "station": "신포"
+  },
+  {
+    "line": "수인분당",
+    "station": "인천"
+  },
+  {
+    "line": "경춘",
+    "station": "청량리"
+  },
+  {
+    "line": "경춘",
+    "station": "회기"
+  },
+  {
+    "line": "경춘",
+    "station": "중랑"
+  },
+  {
+    "line": "경춘",
+    "station": "상봉"
+  },
+  {
+    "line": "경춘",
+    "station": "광운대"
+  },
+  {
+    "line": "경춘",
+    "station": "망우"
+  },
+  {
+    "line": "경춘",
+    "station": "신내"
+  },
+  {
+    "line": "경춘",
+    "station": "갈매"
+  },
+  {
+    "line": "경춘",
+    "station": "별내(삼육대학교)"
+  },
+  {
+    "line": "경춘",
+    "station": "퇴계원"
+  },
+  {
+    "line": "경춘",
+    "station": "사릉"
+  },
+  {
+    "line": "경춘",
+    "station": "금곡"
+  },
+  {
+    "line": "경춘",
+    "station": "평내호평"
+  },
+  {
+    "line": "경춘",
+    "station": "천마산"
+  },
+  {
+    "line": "경춘",
+    "station": "마석"
+  },
+  {
+    "line": "경춘",
+    "station": "대성리"
+  },
+  {
+    "line": "경춘",
+    "station": "청평"
+  },
+  {
+    "line": "경춘",
+    "station": "상천(호명호수)"
+  },
+  {
+    "line": "경춘",
+    "station": "가평(자라섬.남이섬)"
+  },
+  {
+    "line": "경춘",
+    "station": "굴봉산(제이드가든)"
+  },
+  {
+    "line": "경춘",
+    "station": "백양리(엘리시안강촌)"
+  },
+  {
+    "line": "경춘",
+    "station": "강촌"
+  },
+  {
+    "line": "경춘",
+    "station": "김유정"
+  },
+  {
+    "line": "경춘",
+    "station": "남춘천(강원대)"
+  },
+  {
+    "line": "경춘",
+    "station": "춘천(한림대)"
+  },
+  {
+    "line": "경의중앙",
+    "station": "도라산"
+  },
+  {
+    "line": "경의중앙",
+    "station": "임진강"
+  },
+  {
+    "line": "경의중앙",
+    "station": "운천"
+  },
+  {
+    "line": "경의중앙",
+    "station": "문산"
+  },
+  {
+    "line": "경의중앙",
+    "station": "파주(두원대학)"
+  },
+  {
+    "line": "경의중앙",
+    "station": "월롱(서영대학교)"
+  },
+  {
+    "line": "경의중앙",
+    "station": "금촌"
+  },
+  {
+    "line": "경의중앙",
+    "station": "금릉"
+  },
+  {
+    "line": "경의중앙",
+    "station": "운정"
+  },
+  {
+    "line": "경의중앙",
+    "station": "야당"
+  },
+  {
+    "line": "경의중앙",
+    "station": "탄현"
+  },
+  {
+    "line": "경의중앙",
+    "station": "일산"
+  },
+  {
+    "line": "경의중앙",
+    "station": "풍산"
+  },
+  {
+    "line": "경의중앙",
+    "station": "백마"
+  },
+  {
+    "line": "경의중앙",
+    "station": "곡산"
+  },
+  {
+    "line": "경의중앙",
+    "station": "대곡"
+  },
+  {
+    "line": "경의중앙",
+    "station": "능곡"
+  },
+  {
+    "line": "경의중앙",
+    "station": "행신"
+  },
+  {
+    "line": "경의중앙",
+    "station": "강매"
+  },
+  {
+    "line": "경의중앙",
+    "station": "한국항공대"
+  },
+  {
+    "line": "경의중앙",
+    "station": "수색"
+  },
+  {
+    "line": "경의중앙",
+    "station": "신촌"
+  },
+  {
+    "line": "경의중앙",
+    "station": "디지털미디어시티"
+  },
+  {
+    "line": "경의중앙",
+    "station": "서울역"
+  },
+  {
+    "line": "경의중앙",
+    "station": "가좌"
+  },
+  {
+    "line": "경의중앙",
+    "station": "홍대입구"
+  },
+  {
+    "line": "경의중앙",
+    "station": "서강대"
+  },
+  {
+    "line": "경의중앙",
+    "station": "공덕"
+  },
+  {
+    "line": "경의중앙",
+    "station": "효창공원앞"
+  },
+  {
+    "line": "경의중앙",
+    "station": "용산"
+  },
+  {
+    "line": "경의중앙",
+    "station": "이촌"
+  },
+  {
+    "line": "경의중앙",
+    "station": "서빙고"
+  },
+  {
+    "line": "경의중앙",
+    "station": "한남"
+  },
+  {
+    "line": "경의중앙",
+    "station": "옥수"
+  },
+  {
+    "line": "경의중앙",
+    "station": "응봉"
+  },
+  {
+    "line": "경의중앙",
+    "station": "왕십리"
+  },
+  {
+    "line": "경의중앙",
+    "station": "청량리"
+  },
+  {
+    "line": "경의중앙",
+    "station": "회기"
+  },
+  {
+    "line": "경의중앙",
+    "station": "중랑"
+  },
+  {
+    "line": "경의중앙",
+    "station": "상봉"
+  },
+  {
+    "line": "경의중앙",
+    "station": "망우"
+  },
+  {
+    "line": "경의중앙",
+    "station": "양원(서울시북부병원)"
+  },
+  {
+    "line": "경의중앙",
+    "station": "구리"
+  },
+  {
+    "line": "경의중앙",
+    "station": "도농"
+  },
+  {
+    "line": "경의중앙",
+    "station": "양정"
+  },
+  {
+    "line": "경의중앙",
+    "station": "덕소"
+  },
+  {
+    "line": "경의중앙",
+    "station": "도심"
+  },
+  {
+    "line": "경의중앙",
+    "station": "팔당"
+  },
+  {
+    "line": "경의중앙",
+    "station": "운길산"
+  },
+  {
+    "line": "경의중앙",
+    "station": "양수"
+  },
+  {
+    "line": "경의중앙",
+    "station": "신원"
+  },
+  {
+    "line": "경의중앙",
+    "station": "국수"
+  },
+  {
+    "line": "경의중앙",
+    "station": "아신(아세아연합신학대)"
+  },
+  {
+    "line": "경의중앙",
+    "station": "오빈"
+  },
+  {
+    "line": "경의중앙",
+    "station": "양평"
+  },
+  {
+    "line": "경의중앙",
+    "station": "원덕(추읍산)"
+  },
+  {
+    "line": "경의중앙",
+    "station": "용문"
+  },
+  {
+    "line": "경의중앙",
+    "station": "지평"
+  },
+  {
+    "line": "경강",
+    "station": "판교(판교테크노밸리)"
+  },
+  {
+    "line": "경강",
+    "station": "성남"
+  },
+  {
+    "line": "경강",
+    "station": "이매"
+  },
+  {
+    "line": "경강",
+    "station": "삼동"
+  },
+  {
+    "line": "경강",
+    "station": "경기광주"
+  },
+  {
+    "line": "경강",
+    "station": "초월"
+  },
+  {
+    "line": "경강",
+    "station": "곤지암"
+  },
+  {
+    "line": "경강",
+    "station": "신둔도예촌"
+  },
+  {
+    "line": "경강",
+    "station": "이천"
+  },
+  {
+    "line": "경강",
+    "station": "부발"
+  },
+  {
+    "line": "경강",
+    "station": "세종대왕릉"
+  },
+  {
+    "line": "경강",
+    "station": "여주"
+  },
+  {
+    "line": "서해선",
+    "station": "일산"
+  },
+  {
+    "line": "서해선",
+    "station": "풍산"
+  },
+  {
+    "line": "서해선",
+    "station": "백마"
+  },
+  {
+    "line": "서해선",
+    "station": "곡산"
+  },
+  {
+    "line": "서해선",
+    "station": "대곡"
+  },
+  {
+    "line": "서해선",
+    "station": "능곡"
+  },
+  {
+    "line": "서해선",
+    "station": "김포공항역"
+  },
+  {
+    "line": "서해선",
+    "station": "부천종합운동장역"
+  },
+  {
+    "line": "4호선",
+    "station": "진접"
+  },
+  {
+    "line": "4호선",
+    "station": "오남"
+  },
+  {
+    "line": "4호선",
+    "station": "별내별가람"
+  },
+  {
+    "line": "8호선",
+    "station": "별내"
+  },
+  {
+    "line": "8호선",
+    "station": "다산"
+  },
+  {
+    "line": "1호선",
+    "station": "청량리(서울시립대입구)"
+  },
+  {
+    "line": "1호선",
+    "station": "제기동"
+  },
+  {
+    "line": "1호선",
+    "station": "신설동"
+  },
+  {
+    "line": "1호선",
+    "station": "동묘앞"
+  },
+  {
+    "line": "1호선",
+    "station": "동대문"
+  },
+  {
+    "line": "1호선",
+    "station": "종로5가"
+  },
+  {
+    "line": "1호선",
+    "station": "종로3가"
+  },
+  {
+    "line": "1호선",
+    "station": "종각"
+  },
+  {
+    "line": "1호선",
+    "station": "시청"
+  },
+  {
+    "line": "1호선",
+    "station": "서울역"
+  },
+  {
+    "line": "2호선",
+    "station": "시청"
+  },
+  {
+    "line": "2호선",
+    "station": "충정로(경기대입구)"
+  },
+  {
+    "line": "2호선",
+    "station": "아현"
+  },
+  {
+    "line": "2호선",
+    "station": "이대"
+  },
+  {
+    "line": "2호선",
+    "station": "신촌"
+  },
+  {
+    "line": "2호선",
+    "station": "홍대입구"
+  },
+  {
+    "line": "2호선",
+    "station": "합정"
+  },
+  {
+    "line": "2호선",
+    "station": "당산"
+  },
+  {
+    "line": "2호선",
+    "station": "영등포구청"
+  },
+  {
+    "line": "2호선",
+    "station": "문래"
+  },
+  {
+    "line": "2호선",
+    "station": "신도림"
+  },
+  {
+    "line": "2호선",
+    "station": "대림(구로구청)"
+  },
+  {
+    "line": "2호선",
+    "station": "도림천"
+  },
+  {
+    "line": "2호선",
+    "station": "구로디지털단지"
+  },
+  {
+    "line": "2호선",
+    "station": "양천구청"
+  },
+  {
+    "line": "2호선",
+    "station": "신대방"
+  },
+  {
+    "line": "2호선",
+    "station": "신정네거리"
+  },
+  {
+    "line": "2호선",
+    "station": "까치산"
+  },
+  {
+    "line": "2호선",
+    "station": "신림"
+  },
+  {
+    "line": "2호선",
+    "station": "봉천"
+  },
+  {
+    "line": "2호선",
+    "station": "서울대입구(관악구청)"
+  },
+  {
+    "line": "2호선",
+    "station": "낙성대"
+  },
+  {
+    "line": "2호선",
+    "station": "사당"
+  },
+  {
+    "line": "2호선",
+    "station": "방배"
+  },
+  {
+    "line": "2호선",
+    "station": "서초"
+  },
+  {
+    "line": "2호선",
+    "station": "교대(법원.검찰청)"
+  },
+  {
+    "line": "2호선",
+    "station": "강남"
+  },
+  {
+    "line": "2호선",
+    "station": "역삼"
+  },
+  {
+    "line": "2호선",
+    "station": "선릉"
+  },
+  {
+    "line": "2호선",
+    "station": "삼성(무역센터)"
+  },
+  {
+    "line": "2호선",
+    "station": "종합운동장"
+  },
+  {
+    "line": "2호선",
+    "station": "잠실새내"
+  },
+  {
+    "line": "2호선",
+    "station": "잠실(송파구청)"
+  },
+  {
+    "line": "2호선",
+    "station": "잠실나루"
+  },
+  {
+    "line": "2호선",
+    "station": "강변(동서울터미널)"
+  },
+  {
+    "line": "2호선",
+    "station": "구의(광진구청)"
+  },
+  {
+    "line": "2호선",
+    "station": "건대입구"
+  },
+  {
+    "line": "2호선",
+    "station": "성수"
+  },
+  {
+    "line": "2호선",
+    "station": "뚝섬"
+  },
+  {
+    "line": "2호선",
+    "station": "용답"
+  },
+  {
+    "line": "2호선",
+    "station": "신답"
+  },
+  {
+    "line": "2호선",
+    "station": "한양대"
+  },
+  {
+    "line": "2호선",
+    "station": "왕십리"
+  },
+  {
+    "line": "2호선",
+    "station": "용두(동대문구청)"
+  },
+  {
+    "line": "2호선",
+    "station": "상왕십리"
+  },
+  {
+    "line": "2호선",
+    "station": "신설동"
+  },
+  {
+    "line": "2호선",
+    "station": "신당"
+  },
+  {
+    "line": "2호선",
+    "station": "동대문역사문화공원"
+  },
+  {
+    "line": "2호선",
+    "station": "을지로4가"
+  },
+  {
+    "line": "2호선",
+    "station": "을지로3가"
+  },
+  {
+    "line": "2호선",
+    "station": "을지로입구"
+  },
+  {
+    "line": "3호선",
+    "station": "지축"
+  },
+  {
+    "line": "3호선",
+    "station": "구파발"
+  },
+  {
+    "line": "3호선",
+    "station": "연신내"
+  },
+  {
+    "line": "3호선",
+    "station": "불광"
+  },
+  {
+    "line": "3호선",
+    "station": "녹번"
+  },
+  {
+    "line": "3호선",
+    "station": "홍제"
+  },
+  {
+    "line": "3호선",
+    "station": "무악재"
+  },
+  {
+    "line": "3호선",
+    "station": "독립문"
+  },
+  {
+    "line": "3호선",
+    "station": "경복궁(정부서울청사)"
+  },
+  {
+    "line": "3호선",
+    "station": "안국"
+  },
+  {
+    "line": "3호선",
+    "station": "종로3가"
+  },
+  {
+    "line": "3호선",
+    "station": "을지로3가"
+  },
+  {
+    "line": "3호선",
+    "station": "충무로"
+  },
+  {
+    "line": "3호선",
+    "station": "동대입구"
+  },
+  {
+    "line": "3호선",
+    "station": "약수"
+  },
+  {
+    "line": "3호선",
+    "station": "금호"
+  },
+  {
+    "line": "3호선",
+    "station": "옥수"
+  },
+  {
+    "line": "3호선",
+    "station": "압구정"
+  },
+  {
+    "line": "3호선",
+    "station": "신사"
+  },
+  {
+    "line": "3호선",
+    "station": "잠원"
+  },
+  {
+    "line": "3호선",
+    "station": "고속터미널"
+  },
+  {
+    "line": "3호선",
+    "station": "교대(법원.검찰청)"
+  },
+  {
+    "line": "3호선",
+    "station": "남부터미널(예술의전당)"
+  },
+  {
+    "line": "3호선",
+    "station": "양재(서초구청)"
+  },
+  {
+    "line": "3호선",
+    "station": "매봉"
+  },
+  {
+    "line": "3호선",
+    "station": "도곡"
+  },
+  {
+    "line": "3호선",
+    "station": "대치"
+  },
+  {
+    "line": "3호선",
+    "station": "학여울"
+  },
+  {
+    "line": "3호선",
+    "station": "대청"
+  },
+  {
+    "line": "3호선",
+    "station": "일원"
+  },
+  {
+    "line": "3호선",
+    "station": "수서"
+  },
+  {
+    "line": "3호선",
+    "station": "가락시장"
+  },
+  {
+    "line": "3호선",
+    "station": "경찰병원"
+  },
+  {
+    "line": "3호선",
+    "station": "오금"
+  },
+  {
+    "line": "4호선",
+    "station": "불암산(당고개)"
+  },
+  {
+    "line": "4호선",
+    "station": "상계"
+  },
+  {
+    "line": "4호선",
+    "station": "노원"
+  },
+  {
+    "line": "4호선",
+    "station": "창동"
+  },
+  {
+    "line": "4호선",
+    "station": "쌍문"
+  },
+  {
+    "line": "4호선",
+    "station": "수유(강북구청)"
+  },
+  {
+    "line": "4호선",
+    "station": "미아"
+  },
+  {
+    "line": "4호선",
+    "station": "미아사거리"
+  },
+  {
+    "line": "4호선",
+    "station": "길음"
+  },
+  {
+    "line": "4호선",
+    "station": "성신여대입구(돈암)"
+  },
+  {
+    "line": "4호선",
+    "station": "한성대입구(삼선교)"
+  },
+  {
+    "line": "4호선",
+    "station": "혜화"
+  },
+  {
+    "line": "4호선",
+    "station": "동대문"
+  },
+  {
+    "line": "4호선",
+    "station": "동대문역사문화공원"
+  },
+  {
+    "line": "4호선",
+    "station": "충무로"
+  },
+  {
+    "line": "4호선",
+    "station": "명동"
+  },
+  {
+    "line": "4호선",
+    "station": "회현(남대문시장)"
+  },
+  {
+    "line": "4호선",
+    "station": "서울역"
+  },
+  {
+    "line": "4호선",
+    "station": "숙대입구(갈월)"
+  },
+  {
+    "line": "4호선",
+    "station": "삼각지"
+  },
+  {
+    "line": "4호선",
+    "station": "신용산"
+  },
+  {
+    "line": "4호선",
+    "station": "이촌(국립중앙박물관)"
+  },
+  {
+    "line": "4호선",
+    "station": "동작(현충원)"
+  },
+  {
+    "line": "4호선",
+    "station": "총신대입구(이수)"
+  },
+  {
+    "line": "4호선",
+    "station": "사당"
+  },
+  {
+    "line": "4호선",
+    "station": "남태령"
+  },
+  {
+    "line": "5호선",
+    "station": "방화"
+  },
+  {
+    "line": "5호선",
+    "station": "개화산"
+  },
+  {
+    "line": "5호선",
+    "station": "김포공항"
+  },
+  {
+    "line": "5호선",
+    "station": "송정"
+  },
+  {
+    "line": "5호선",
+    "station": "마곡"
+  },
+  {
+    "line": "5호선",
+    "station": "발산"
+  },
+  {
+    "line": "5호선",
+    "station": "우장산"
+  },
+  {
+    "line": "5호선",
+    "station": "화곡"
+  },
+  {
+    "line": "5호선",
+    "station": "까치산"
+  },
+  {
+    "line": "5호선",
+    "station": "신정(은행정)"
+  },
+  {
+    "line": "5호선",
+    "station": "목동"
+  },
+  {
+    "line": "5호선",
+    "station": "오목교(목동운동장앞)"
+  },
+  {
+    "line": "5호선",
+    "station": "양평"
+  },
+  {
+    "line": "5호선",
+    "station": "영등포구청"
+  },
+  {
+    "line": "5호선",
+    "station": "영등포시장"
+  },
+  {
+    "line": "5호선",
+    "station": "신길"
+  },
+  {
+    "line": "5호선",
+    "station": "여의도"
+  },
+  {
+    "line": "5호선",
+    "station": "여의나루"
+  },
+  {
+    "line": "5호선",
+    "station": "마포"
+  },
+  {
+    "line": "5호선",
+    "station": "공덕"
+  },
+  {
+    "line": "5호선",
+    "station": "애오개"
+  },
+  {
+    "line": "5호선",
+    "station": "충정로(경기대입구)"
+  },
+  {
+    "line": "5호선",
+    "station": "서대문"
+  },
+  {
+    "line": "5호선",
+    "station": "광화문(세종문화회관)"
+  },
+  {
+    "line": "5호선",
+    "station": "종로3가(탑골공원)"
+  },
+  {
+    "line": "5호선",
+    "station": "을지로4가"
+  },
+  {
+    "line": "5호선",
+    "station": "동대문역사문화공원"
+  },
+  {
+    "line": "5호선",
+    "station": "청구"
+  },
+  {
+    "line": "5호선",
+    "station": "신금호"
+  },
+  {
+    "line": "5호선",
+    "station": "행당"
+  },
+  {
+    "line": "5호선",
+    "station": "왕십리"
+  },
+  {
+    "line": "5호선",
+    "station": "마장"
+  },
+  {
+    "line": "5호선",
+    "station": "답십리"
+  },
+  {
+    "line": "5호선",
+    "station": "장한평"
+  },
+  {
+    "line": "5호선",
+    "station": "군자(능동)"
+  },
+  {
+    "line": "5호선",
+    "station": "아차산(어린이대공원후문)"
+  },
+  {
+    "line": "5호선",
+    "station": "광나루(장신대)"
+  },
+  {
+    "line": "5호선",
+    "station": "천호(풍납토성)"
+  },
+  {
+    "line": "5호선",
+    "station": "강동"
+  },
+  {
+    "line": "5호선",
+    "station": "길동"
+  },
+  {
+    "line": "5호선",
+    "station": "둔촌동"
+  },
+  {
+    "line": "5호선",
+    "station": "굽은다리(강동구민회관앞)"
+  },
+  {
+    "line": "5호선",
+    "station": "올림픽공원(한국체대)"
+  },
+  {
+    "line": "5호선",
+    "station": "명일"
+  },
+  {
+    "line": "5호선",
+    "station": "방이"
+  },
+  {
+    "line": "5호선",
+    "station": "고덕"
+  },
+  {
+    "line": "5호선",
+    "station": "오금"
+  },
+  {
+    "line": "5호선",
+    "station": "개롱"
+  },
+  {
+    "line": "5호선",
+    "station": "상일동"
+  },
+  {
+    "line": "5호선",
+    "station": "강일"
+  },
+  {
+    "line": "5호선",
+    "station": "거여"
+  },
+  {
+    "line": "5호선",
+    "station": "마천"
+  },
+  {
+    "line": "5호선",
+    "station": "미사"
+  },
+  {
+    "line": "5호선",
+    "station": "하남풍산"
+  },
+  {
+    "line": "5호선",
+    "station": "하남시청(덕풍.신장)"
+  },
+  {
+    "line": "5호선",
+    "station": "하남검단산역"
+  },
+  {
+    "line": "6호선",
+    "station": "응암"
+  },
+  {
+    "line": "6호선",
+    "station": "역촌"
+  },
+  {
+    "line": "6호선",
+    "station": "불광"
+  },
+  {
+    "line": "6호선",
+    "station": "독바위"
+  },
+  {
+    "line": "6호선",
+    "station": "연신내"
+  },
+  {
+    "line": "6호선",
+    "station": "구산"
+  },
+  {
+    "line": "6호선",
+    "station": "새절(신사)"
+  },
+  {
+    "line": "6호선",
+    "station": "증산(명지대앞)"
+  },
+  {
+    "line": "6호선",
+    "station": "디지털미디어시티"
+  },
+  {
+    "line": "6호선",
+    "station": "월드컵경기장(성산)"
+  },
+  {
+    "line": "6호선",
+    "station": "마포구청"
+  },
+  {
+    "line": "6호선",
+    "station": "망원"
+  },
+  {
+    "line": "6호선",
+    "station": "합정"
+  },
+  {
+    "line": "6호선",
+    "station": "상수"
+  },
+  {
+    "line": "6호선",
+    "station": "광흥창(서강)"
+  },
+  {
+    "line": "6호선",
+    "station": "대흥(서강대앞)"
+  },
+  {
+    "line": "6호선",
+    "station": "공덕"
+  },
+  {
+    "line": "6호선",
+    "station": "효창공원앞"
+  },
+  {
+    "line": "6호선",
+    "station": "삼각지"
+  },
+  {
+    "line": "6호선",
+    "station": "녹사평(용산구청)"
+  },
+  {
+    "line": "6호선",
+    "station": "이태원"
+  },
+  {
+    "line": "6호선",
+    "station": "한강진"
+  },
+  {
+    "line": "6호선",
+    "station": "버티고개"
+  },
+  {
+    "line": "6호선",
+    "station": "약수"
+  },
+  {
+    "line": "6호선",
+    "station": "청구"
+  },
+  {
+    "line": "6호선",
+    "station": "신당"
+  },
+  {
+    "line": "6호선",
+    "station": "동묘앞"
+  },
+  {
+    "line": "6호선",
+    "station": "창신"
+  },
+  {
+    "line": "6호선",
+    "station": "보문"
+  },
+  {
+    "line": "6호선",
+    "station": "안암(고대병원앞)"
+  },
+  {
+    "line": "6호선",
+    "station": "고려대(종암)"
+  },
+  {
+    "line": "6호선",
+    "station": "월곡(동덕여대)"
+  },
+  {
+    "line": "6호선",
+    "station": "상월곡(한국과학기술연구원)"
+  },
+  {
+    "line": "6호선",
+    "station": "돌곶이"
+  },
+  {
+    "line": "6호선",
+    "station": "석계"
+  },
+  {
+    "line": "6호선",
+    "station": "태릉입구"
+  },
+  {
+    "line": "6호선",
+    "station": "화랑대(서울여대입구)"
+  },
+  {
+    "line": "6호선",
+    "station": "봉화산(서울의료원)"
+  },
+  {
+    "line": "6호선",
+    "station": "신내"
+  },
+  {
+    "line": "7호선",
+    "station": "장암"
+  },
+  {
+    "line": "7호선",
+    "station": "도봉산"
+  },
+  {
+    "line": "7호선",
+    "station": "수락산"
+  },
+  {
+    "line": "7호선",
+    "station": "마들"
+  },
+  {
+    "line": "7호선",
+    "station": "노원"
+  },
+  {
+    "line": "7호선",
+    "station": "중계"
+  },
+  {
+    "line": "7호선",
+    "station": "하계"
+  },
+  {
+    "line": "7호선",
+    "station": "공릉(서울과학기술대)"
+  },
+  {
+    "line": "7호선",
+    "station": "태릉입구"
+  },
+  {
+    "line": "7호선",
+    "station": "먹골"
+  },
+  {
+    "line": "7호선",
+    "station": "중화"
+  },
+  {
+    "line": "7호선",
+    "station": "상봉(시외버스터미널)"
+  },
+  {
+    "line": "7호선",
+    "station": "면목"
+  },
+  {
+    "line": "7호선",
+    "station": "사가정"
+  },
+  {
+    "line": "7호선",
+    "station": "용마산"
+  },
+  {
+    "line": "7호선",
+    "station": "중곡"
+  },
+  {
+    "line": "7호선",
+    "station": "군자(능동)"
+  },
+  {
+    "line": "7호선",
+    "station": "어린이대공원(세종대)"
+  },
+  {
+    "line": "7호선",
+    "station": "건대입구"
+  },
+  {
+    "line": "7호선",
+    "station": "자양(뚝섬한강공원)"
+  },
+  {
+    "line": "7호선",
+    "station": "청담"
+  },
+  {
+    "line": "7호선",
+    "station": "강남구청"
+  },
+  {
+    "line": "7호선",
+    "station": "학동"
+  },
+  {
+    "line": "7호선",
+    "station": "논현"
+  },
+  {
+    "line": "7호선",
+    "station": "반포"
+  },
+  {
+    "line": "7호선",
+    "station": "고속터미널"
+  },
+  {
+    "line": "7호선",
+    "station": "내방"
+  },
+  {
+    "line": "7호선",
+    "station": "총신대입구(이수)"
+  },
+  {
+    "line": "7호선",
+    "station": "남성"
+  },
+  {
+    "line": "7호선",
+    "station": "숭실대입구(살피재)"
+  },
+  {
+    "line": "7호선",
+    "station": "상도"
+  },
+  {
+    "line": "7호선",
+    "station": "장승배기"
+  },
+  {
+    "line": "7호선",
+    "station": "신대방삼거리"
+  },
+  {
+    "line": "7호선",
+    "station": "보라매"
+  },
+  {
+    "line": "7호선",
+    "station": "신풍"
+  },
+  {
+    "line": "7호선",
+    "station": "대림(구로구청)"
+  },
+  {
+    "line": "7호선",
+    "station": "남구로"
+  },
+  {
+    "line": "7호선",
+    "station": "가산디지털단지"
+  },
+  {
+    "line": "7호선",
+    "station": "철산"
+  },
+  {
+    "line": "7호선",
+    "station": "광명사거리"
+  },
+  {
+    "line": "7호선",
+    "station": "천왕"
+  },
+  {
+    "line": "7호선",
+    "station": "온수(성공회대입구)"
+  },
+  {
+    "line": "8호선",
+    "station": "암사역사공원"
+  },
+  {
+    "line": "8호선",
+    "station": "암사"
+  },
+  {
+    "line": "8호선",
+    "station": "천호(풍납토성)"
+  },
+  {
+    "line": "8호선",
+    "station": "강동구청"
+  },
+  {
+    "line": "8호선",
+    "station": "몽촌토성(평화의문)"
+  },
+  {
+    "line": "8호선",
+    "station": "잠실(송파구청)"
+  },
+  {
+    "line": "8호선",
+    "station": "석촌"
+  },
+  {
+    "line": "8호선",
+    "station": "송파"
+  },
+  {
+    "line": "8호선",
+    "station": "가락시장"
+  },
+  {
+    "line": "8호선",
+    "station": "문정"
+  },
+  {
+    "line": "8호선",
+    "station": "장지"
+  },
+  {
+    "line": "8호선",
+    "station": "복정"
+  },
+  {
+    "line": "8호선",
+    "station": "남위례"
+  },
+  {
+    "line": "8호선",
+    "station": "산성"
+  },
+  {
+    "line": "8호선",
+    "station": "남한산성입구(성남법원.검찰청)"
+  },
+  {
+    "line": "8호선",
+    "station": "단대오거리"
+  },
+  {
+    "line": "8호선",
+    "station": "신흥"
+  },
+  {
+    "line": "8호선",
+    "station": "수진"
+  },
+  {
+    "line": "8호선",
+    "station": "모란"
+  },
+  {
+    "line": "9호선",
+    "station": "개화"
+  },
+  {
+    "line": "9호선",
+    "station": "김포공항"
+  },
+  {
+    "line": "9호선",
+    "station": "공항시장"
+  },
+  {
+    "line": "9호선",
+    "station": "신방화"
+  },
+  {
+    "line": "9호선",
+    "station": "마곡나루"
+  },
+  {
+    "line": "9호선",
+    "station": "양천향교"
+  },
+  {
+    "line": "9호선",
+    "station": "가양"
+  },
+  {
+    "line": "9호선",
+    "station": "증미"
+  },
+  {
+    "line": "9호선",
+    "station": "등촌"
+  },
+  {
+    "line": "9호선",
+    "station": "염창"
+  },
+  {
+    "line": "9호선",
+    "station": "신목동"
+  },
+  {
+    "line": "9호선",
+    "station": "선유도"
+  },
+  {
+    "line": "9호선",
+    "station": "당산"
+  },
+  {
+    "line": "9호선",
+    "station": "국회의사당"
+  },
+  {
+    "line": "9호선",
+    "station": "여의도"
+  },
+  {
+    "line": "9호선",
+    "station": "샛강"
+  },
+  {
+    "line": "9호선",
+    "station": "노량진"
+  },
+  {
+    "line": "9호선",
+    "station": "노들"
+  },
+  {
+    "line": "9호선",
+    "station": "흑석(중앙대입구)"
+  },
+  {
+    "line": "9호선",
+    "station": "동작(현충원)"
+  },
+  {
+    "line": "9호선",
+    "station": "구반포"
+  },
+  {
+    "line": "9호선",
+    "station": "신반포"
+  },
+  {
+    "line": "9호선",
+    "station": "고속터미널"
+  },
+  {
+    "line": "9호선",
+    "station": "사평"
+  },
+  {
+    "line": "9호선",
+    "station": "신논현"
+  },
+  {
+    "line": "9호선",
+    "station": "언주"
+  },
+  {
+    "line": "9호선",
+    "station": "선정릉"
+  },
+  {
+    "line": "9호선",
+    "station": "삼성중앙"
+  },
+  {
+    "line": "9호선",
+    "station": "봉은사"
+  },
+  {
+    "line": "9호선",
+    "station": "종합운동장"
+  },
+  {
+    "line": "9호선",
+    "station": "삼전"
+  },
+  {
+    "line": "9호선",
+    "station": "석촌고분"
+  },
+  {
+    "line": "9호선",
+    "station": "석촌"
+  },
+  {
+    "line": "9호선",
+    "station": "송파나루"
+  },
+  {
+    "line": "9호선",
+    "station": "한성백제"
+  },
+  {
+    "line": "9호선",
+    "station": "올림픽공원(한국체대)"
+  },
+  {
+    "line": "9호선",
+    "station": "둔촌오륜"
+  },
+  {
+    "line": "9호선",
+    "station": "중앙보훈병원"
+  },
+  {
+    "line": "신림선",
+    "station": "샛강"
+  },
+  {
+    "line": "신림선",
+    "station": "대방"
+  },
+  {
+    "line": "신림선",
+    "station": "서울지방병무청"
+  },
+  {
+    "line": "신림선",
+    "station": "보라매"
+  },
+  {
+    "line": "신림선",
+    "station": "보라매공원"
+  },
+  {
+    "line": "신림선",
+    "station": "보라매병원"
+  },
+  {
+    "line": "신림선",
+    "station": "당곡"
+  },
+  {
+    "line": "신림선",
+    "station": "신림"
+  },
+  {
+    "line": "신림선",
+    "station": "서원"
+  },
+  {
+    "line": "신림선",
+    "station": "서울대벤처타운"
+  },
+  {
+    "line": "신림선",
+    "station": "관악산(서울대)"
+  },
+  {
+    "line": "GTX-A",
+    "station": "동탄"
+  },
+  {
+    "line": "서해선",
+    "station": "소사"
+  },
+  {
+    "line": "서해선",
+    "station": "소새울"
+  },
+  {
+    "line": "서해선",
+    "station": "시흥대야"
+  },
+  {
+    "line": "서해선",
+    "station": "신천"
+  },
+  {
+    "line": "서해선",
+    "station": "신현"
+  },
+  {
+    "line": "서해선",
+    "station": "시흥시청"
+  },
+  {
+    "line": "서해선",
+    "station": "시흥능곡"
+  },
+  {
+    "line": "서해선",
+    "station": "달미"
+  },
+  {
+    "line": "서해선",
+    "station": "선부"
+  },
+  {
+    "line": "서해선",
+    "station": "초지"
+  },
+  {
+    "line": "서해선",
+    "station": "시우"
+  },
+  {
+    "line": "서해선",
+    "station": "원시"
+  },
+  {
+    "line": "우이신설",
+    "station": "북한산우이"
+  },
+  {
+    "line": "우이신설",
+    "station": "솔밭공원"
+  },
+  {
+    "line": "우이신설",
+    "station": "4.19민주묘지"
+  },
+  {
+    "line": "우이신설",
+    "station": "가오리"
+  },
+  {
+    "line": "우이신설",
+    "station": "화계"
+  },
+  {
+    "line": "우이신설",
+    "station": "삼양"
+  },
+  {
+    "line": "우이신설",
+    "station": "삼양사거리"
+  },
+  {
+    "line": "우이신설",
+    "station": "솔샘"
+  },
+  {
+    "line": "우이신설",
+    "station": "북한산보국문"
+  },
+  {
+    "line": "우이신설",
+    "station": "정릉"
+  },
+  {
+    "line": "우이신설",
+    "station": "성신여대입구"
+  },
+  {
+    "line": "우이신설",
+    "station": "보문"
+  },
+  {
+    "line": "우이신설",
+    "station": "신설동"
+  },
+  {
+    "line": "의정부",
+    "station": "발곡"
+  },
+  {
+    "line": "의정부",
+    "station": "회룡"
+  },
+  {
+    "line": "의정부",
+    "station": "범골"
+  },
+  {
+    "line": "의정부",
+    "station": "경전철의정부"
+  },
+  {
+    "line": "의정부",
+    "station": "의정부시청"
+  },
+  {
+    "line": "의정부",
+    "station": "흥선"
+  },
+  {
+    "line": "의정부",
+    "station": "의정부중앙"
+  },
+  {
+    "line": "의정부",
+    "station": "동오"
+  },
+  {
+    "line": "의정부",
+    "station": "새말"
+  },
+  {
+    "line": "의정부",
+    "station": "경기도청북부청사"
+  },
+  {
+    "line": "의정부",
+    "station": "효자"
+  },
+  {
+    "line": "의정부",
+    "station": "곤제"
+  },
+  {
+    "line": "의정부",
+    "station": "어룡(용현산업단지)"
+  },
+  {
+    "line": "의정부",
+    "station": "송산"
+  },
+  {
+    "line": "의정부",
+    "station": "탑석"
+  }
+]
